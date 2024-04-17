@@ -1,10 +1,4 @@
 <?php
-/**
- * Nombre: Katherine
- * Apellido: Contreras
- * Legajo: 4996
- * Github: https://github.com/katherine-j-c-s/SimulacroPrimerParcial2024
-*/
 /*
 Implementar un script TestEmpresa en la cual:
 */
